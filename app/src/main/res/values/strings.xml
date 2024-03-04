@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- slide_2 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_9_41_string">9:41</string>
+	<string name="log_in_string">Log in</string>
+	<string name="sign_up_string">Sign up</string>
+	<string name="your_email_string">Your Email</string>
+	<string name="password_string">Password</string>
+	<string name="don_t_have_an_account__sign_up_string">Dont have an account? Sign up</string>
+	<string name="forgot_password__string">Forgot password?</string>
+	<string name="wrong_password_string">Wrong password</string>
+	<string name="contact_dscodetech_com_string">contact@dscodetech.com</string>
+	<string name="continue_string">Continue</string>
+	<string name="or_string">Or</string>
+	<string name="login_with_apple_string">Login with Apple</string>
+	<string name="login_with_google_string">Login with Google</string>
+</resources>
